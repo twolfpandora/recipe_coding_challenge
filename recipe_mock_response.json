@@ -1,0 +1,11 @@
+{
+  "recipe": {
+    "title": "Recipe Title",
+    "publisher": "Publisher Title",
+    "publisher_url": "publisher_url",
+    "ingredients": ["Ingredient 1", "Ingredient 2", "Ingredient 3", "Ingredient 4"],
+    "recipe_id": "recipe_id",
+    "image_url": "image_url",
+    "social_rank": 5.0
+  }
+}
